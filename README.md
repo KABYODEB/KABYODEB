@@ -1,9 +1,6 @@
-(https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/310867096_1875753219483211_2235156276314907406_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFChaiDeaf3tP8eUh6r5MEVIYd-6_y6zBkhh37r_LrMGUH384u_CfUlcIEY2Ir4pdhseNNhW4qAJyB-ZYCVf8RR&_nc_ohc=ivkYNERa2IwAX-c3Pr-&_nc_ht=scontent.fdac138-1.fna&oh=00_AfC_ktIdfGBPVG3RrujqUU5btFgki2v-h-wVqqooECvQxw&oe=63712054)
-
-
 ### Hi there 👋, I am Kabyo
 #### Networking Student
-![Networking Student]
+![Networking Student](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/310867096_1875753219483211_2235156276314907406_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFChaiDeaf3tP8eUh6r5MEVIYd-6_y6zBkhh37r_LrMGUH384u_CfUlcIEY2Ir4pdhseNNhW4qAJyB-ZYCVf8RR&_nc_ohc=ivkYNERa2IwAX-c3Pr-&_nc_ht=scontent.fdac138-1.fna&oh=00_AfC_ktIdfGBPVG3RrujqUU5btFgki2v-h-wVqqooECvQxw&oe=63712054)
 
 I am currently last semester at University. My subject is computer science and engineering. Now I am trying to find an internship or job. My interest is the Networking sector. I have completed the cyber operation course and know about malware analysis. I also know the basics of Ip addressing, routing, Ipv4, Ipv6, HTML, C#, etc. I have already completed some extra courses about networking.
 
